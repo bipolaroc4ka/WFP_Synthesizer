@@ -1,3 +1,9 @@
 # WFP_Synthesizer
 Synthesizer in C# using the WPF framework
-![Image text](https://drive.google.com/file/d/1kRb4gUQdusljcsaR72WSy6j7_5eKoEfJ/view?usp=sharing)
+
+Used:
+1. Sinusoid
+2. Square
+3. Sawtooth
+4. Triangle
+5. White Noize
